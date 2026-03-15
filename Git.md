@@ -42,7 +42,7 @@ Git push is like sending an enchanted letter by owl post in the wizarding world.
 
 #### Question: What is a Git stash, and why would you use it?
 **Explanation:**  Think of the Git stash as a magical invisibility cloak. When you're working on a branch and need to switch to another without committing your current changes, you can stash them away temporarily. It's like making your changes disappear and reappear when you need them, just as an invisibility cloak makes you disappear and reappear at will.<br>
-**Answer:** A Git stash is like a temporary storage for changes you're not ready to commit. You can "stash" your work, switch to another branch, and later "pop" the stash to continue where you left off.
+**Answer:** A Git stash is like a temporary storage for changes you're not ready to commit. You can "stash" your work, switch to another branch, and later "pop" the stash to continue where you left off. To save the changes: git stash, to appear the changes - git stash pop
 
 
 #### Question: How do you undo the last Git commit?
